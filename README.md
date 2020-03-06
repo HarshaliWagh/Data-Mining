@@ -1,7 +1,6 @@
 This code attempts to implements Apriori algorithm in Python from scratch. 
 
 
-
 List of Files -
 
 1. Apriori.py
