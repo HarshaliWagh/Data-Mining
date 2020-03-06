@@ -1,0 +1,20 @@
+Boots, Pullover, Jackets
+Jackets, Dresses
+Pullover, Jeans
+Slippers, Pullover, Blazers, Sweaters, Dresses, Jeans
+Pullover, Jackets, Boots
+Boots, Shirts, Sweaters
+Coats, Boots, Shirts
+Pullover, Sweaters
+Blazers, Dresses
+Slippers, Jackets, Jeans
+Blazers, Sweaters, Dresses
+Slippers, Shirts, Coats, Jeans
+Coats, Jeans, Pullover, Sweaters
+Jackets, Shirts, Coats, Dresses, Boots
+Boots, Jackets, Sweaters, Dresses
+Boots, Slippers, Blazers, Shirts
+Pullover, Shirts, Sweaters
+Boots, Jackets, Coats
+Shirts, Coats, Pullover, Boots
+Jeans, Sweaters, Dresses

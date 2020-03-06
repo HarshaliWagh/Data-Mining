@@ -1,0 +1,21 @@
+Fork, Knife, Tongs
+Pan, Can opener, Tongs, Bowl
+Spoon, Fork, Pan, Knife, Can opener
+Fork, Pan, Knife, Grater
+Spoon, Fork, Can opener, Knife
+Bowl, Plates, Tongs
+Fork, Knife, Grater, Bowl
+Spoon, Pan, Tongs, spatula
+Knife, Plates, Bowl
+Spoon, Fork, Plates
+Spoon, Knife, Can opener, Bowl, spatula
+Spoon, Fork, Bowl
+Pan, Knife, Bowl, Plates
+Fork, Can opener, Grater
+Fork, Pan, Knife, Bowl
+Can opener, Plates, spatula
+Spoon, Pan, Plates, Tongs
+Pan, Can opener, Bowl, Plates, spatula, Knife
+Spoon, Pan, Bowl, Plates
+Spoon, Knife, Bowl
+

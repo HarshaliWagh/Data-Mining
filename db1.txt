@@ -1,0 +1,20 @@
+Apple, orange, strawberry, Eggs
+orange, cucumber, strawberry, Milk
+Watermelon, onion, Eggs, fenugreek, onion
+Banana, orange, fenugreek, Eggs, cucumber, onion
+Apple, Watermelon, Banana, orange, cucumber, onion, strawberry
+onion, strawberry, fenugreek, Milk
+Watermelon, Banana, onion, Eggs, fenugreek, strawberry
+strawberry, fenugreek, cucumber
+Watermelon, onion, Eggs
+Banana, onion, strawberry, cucumber
+Watermelon, cucumber, Eggs, fenugreek, Banana
+fenugreek, Milk, Eggs, onion, strawberry
+Apple, Watermelon, onion, cucumber, Milk, Eggs
+cucumber, fenugreek, Eggs, onion, strawberry, Banana
+Apple, Banana, Watermelon, onion
+Watermelon, strawberry
+orange, strawberry, Milk, Eggs
+Banana, cucumber, Milk, Watermelon, onion, strawberry
+Apple, onion, Milk, Eggs, cucumber
+Watermelon, fenugreek, Banana, onion

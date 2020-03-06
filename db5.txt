@@ -1,0 +1,20 @@
+Desk, Chairs
+Mattresses, Dressers
+Mattresses, Ottomans
+Desk, Mattresses, Rugs, Beds, Sofas, Ottomans
+Mattresses, Chairs, Sofas
+Desk, Dressers, Ottomans, Beds
+Desk, Rugs, Couches, Sofas
+Rugs, Tables, Ottomans
+Ottomans, Tables
+Mattresses, Rugs, Beds, Ottomans
+Tables, Chairs, Sofas
+Dressers, Ottomans, Couches
+Chairs, Couches, Sofas
+Desk, Mattresses, Tables, Chairs, Beds, Ottomans
+Beds, Couches
+Desk, Rugs, Dressers, Ottomans, Sofas
+Tables, Chairs, Couches, Sofas
+Desk, Ottomans, Tables
+Dressers, Tables, Chairs
+Couches, Sofas

@@ -1,0 +1,20 @@
+cell Phones, Speakers, Routers
+cell Phones, Headphones, Speakers, Laptops
+Televisions, cell Phones, Laptops, Routers, Headphones
+cell Phones, Speakers, Vacuums
+Televisions, Video Games, Vacuums, Headphones
+Televisions, Routers
+camera, cell Phones, Laptops
+Headphones, Printers, Vacuums
+cell Phones, Headphones, Laptops
+camera, Routers, Printers, Headphones
+Televisions, Laptops, Vacuums
+Routers, Printers
+cell Phones, Headphones, Routers
+Speakers, Laptops, Vacuums
+Televisions, camera, Headphones, Speakers, Vacuums
+Headphones, Routers
+Televisions, Video Games
+Video Games, Speakers, Vacuums
+camera, Headphones, Routers, Vacuums
+cell Phones, Headphones, Printers
